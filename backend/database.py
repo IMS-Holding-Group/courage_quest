@@ -9,7 +9,7 @@ from werkzeug.security import generate_password_hash
 DB_NAME = "courage_quest.db"
 
 DEMO_USERNAME = "demo_cq"
-DEMO_PASSWORD = "demo123456"
+DEMO_PASSWORD = ""
 
 
 def get_db_path():
